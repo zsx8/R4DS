@@ -7,4 +7,5 @@
 ---
 
 [1.2. First Steps](https://github.com/zsx8/R4DS/blob/main/Introduction.ipynb)
+
 [1.2.5. Exercises](https://github.com/zsx8/R4DS/blob/main/1_2_5_Exercises.ipynb)
