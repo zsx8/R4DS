@@ -13,3 +13,5 @@
 [1.4. Visualizing Distributions](https://github.com/zsx8/R4DS/blob/main/1_4_VisualizingDistributions.ipynb)
 
 [1.4.3 Exercises](https://github.com/zsx8/R4DS/blob/main/1_4_3_Exercises.ipynb)
+
+[1.5. Visualizing Relationships](https://github.com/zsx8/R4DS/blob/main/1_5_VisualizingRelationships.ipynb)
